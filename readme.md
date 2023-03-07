@@ -4,8 +4,6 @@
 
 ## Usage
 
-Rename "config/config.env.env" to "config/config.env" and update the values/settings to your own
-
 ## Install Dependencies
 
 ```
@@ -33,13 +31,3 @@ node seeder -d
 # Import all data
 node seeder -i
 ```
-
-## Demo
-
-The API is live at [devcamper.io](https://devcamper.io)
-
-Extensive documentation with examples [here](https://documenter.getpostman.com/view/8923145/SVtVVTzd?version=latest)
-
-- Version: 1.0.0
-- License: MIT
-- Author: Brad Traversy
